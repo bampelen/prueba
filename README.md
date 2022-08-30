@@ -1,2 +1,2 @@
 # prueba
-https://bampelen.github.io/prueba/Index.html
+https://bampelen.github.io/prueba/indeX.html
